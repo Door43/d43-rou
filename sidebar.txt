@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rou:home|Door43 (rou)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rou|d43-rou repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rou/archive/master.zip|d43-rou.zip]]
+
+**Recent Changes**
+{{changes>ns = rou}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rou|Ethnologue data]]
+
